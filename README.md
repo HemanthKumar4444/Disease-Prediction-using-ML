@@ -1,23 +1,23 @@
-# 🧠 Disease Prediction using Machine Learning
+# Disease Prediction using Machine Learning
 
 This project is a Machine Learning-based system that predicts the most probable disease based on symptoms provided by a user. The system uses supervised learning models including Support Vector Machine (SVM), Gaussian Naive Bayes, and Random Forest classifiers. It enhances prediction accuracy by combining the outputs of these models using majority voting.
 
 
-## 📂 Dataset
+##  Dataset
 
 The dataset used is `improved_disease_dataset.csv`, which contains:
 - Binary indicators (0/1) for symptoms
 - A categorical target column (`disease`) with disease names
 
 
-## ✅ Features
+## Features
 
-- 🔍 Multi-model classification (SVM, Naive Bayes, Random Forest)
-- 🟰 Class balancing using RandomOverSampler
-- 📊 Confusion matrices for performance visualization
-- 📈 Cross-validation with StratifiedKFold
-- 🧠 Combined prediction using majority voting
-- 🧪 Interactive prediction function based on user-input symptoms
+-  Multi-model classification (SVM, Naive Bayes, Random Forest)
+-  Class balancing using RandomOverSampler
+-  Confusion matrices for performance visualization
+-  Cross-validation with StratifiedKFold
+-  Combined prediction using majority voting
+-  Interactive prediction function based on user-input symptoms
 
 
 ## 🔧 Technologies Used
