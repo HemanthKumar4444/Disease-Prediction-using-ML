@@ -45,6 +45,7 @@ pip install -r requirements.txt
 ```
 
 ### 3. Open the Notebook
+```
 Use Jupyter Notebook or Google Colab:
 
 Disease_Prediction.ipynb
@@ -52,3 +53,4 @@ Disease_Prediction.ipynb
 Make sure to upload or place the dataset file:
 
 improved_disease_dataset.csv
+```
